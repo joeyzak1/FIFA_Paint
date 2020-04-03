@@ -1,9 +1,11 @@
 '''
 ICS3U-01
 Joey Zaka
-Mr. Macanovik
 Paint Project    
 '''
+#No functions used
+#Fifa Based
+
 
 #importing all required modules
 from pygame import *
